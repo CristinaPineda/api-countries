@@ -1,6 +1,7 @@
-{ "countries" : [
+[
   {
     "name":"Afghanistan",
+    "codeCountries":"af",
     "nativeName":"\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
     "topLevelDomain":[
       ".af"
@@ -47,6 +48,7 @@
   },
   {
     "name":"\u00c5land Islands",
+    "codeCountries":"ax",
     "nativeName":"\u00c5land",
     "topLevelDomain":[
       ".ax"
@@ -76,6 +78,7 @@
   },
   {
     "name":"Albania",
+    "codeCountries":"al",
     "nativeName":"Shqip\u00ebria",
     "topLevelDomain":[
       ".al"
@@ -108,6 +111,7 @@
   },
   {
     "name":"Algeria",
+    "codeCountries":"dz",
     "nativeName":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
     "topLevelDomain":[
       ".dz"
@@ -143,6 +147,7 @@
   },
   {
     "name":"American Samoa",
+    "codeCountries":"as",
     "nativeName":"American Samoa",
     "topLevelDomain":[
       ".as"
@@ -178,6 +183,7 @@
   },
   {
     "name":"Andorra",
+    "codeCountries":"ad",
     "nativeName":"Andorra",
     "topLevelDomain":[
       ".ad"
@@ -208,6 +214,7 @@
   },
   {
     "name":"Angola",
+    "codeCountries":"ao",
     "nativeName":"Angola",
     "topLevelDomain":[
       ".ao"
@@ -240,6 +247,7 @@
   },
   {
     "name":"Anguilla",
+    "codeCountries":"ai",
     "nativeName":"Anguilla",
     "topLevelDomain":[
       ".ai"
@@ -269,6 +277,7 @@
   },
   {
     "name":"Antarctica",
+    "codeCountries":"aq",
     "nativeName":"Antarctica",
     "topLevelDomain":[
       ".aq"
@@ -309,6 +318,7 @@
   },
   {
     "name":"Antigua and Barbuda",
+    "codeCountries":"ag",
     "nativeName":"Antigua and Barbuda",
     "topLevelDomain":[
       ".ag"
@@ -338,6 +348,7 @@
   },
   {
     "name":"Argentina",
+    "codeCountries":"ar",
     "nativeName":"Argentina",
     "topLevelDomain":[
       ".ar"
@@ -377,6 +388,7 @@
   },
   {
     "name":"Armenia",
+    "codeCountries":"am",
     "nativeName":"\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
     "topLevelDomain":[
       ".am"
@@ -415,6 +427,7 @@
   },
   {
     "name":"Aruba",
+    "codeCountries":"aw",
     "nativeName":"Aruba",
     "topLevelDomain":[
       ".aw"
@@ -450,6 +463,7 @@
   },
   {
     "name":"Australia",
+    "codeCountries":"au",
     "nativeName":"Australia",
     "topLevelDomain":[
       ".au"
@@ -479,6 +493,7 @@
   },
   {
     "name":"Austria",
+    "codeCountries":"at",
     "nativeName":"\u00d6sterreich",
     "topLevelDomain":[
       ".at"
@@ -515,6 +530,7 @@
   },
   {
     "name":"Azerbaijan",
+    "codeCountries":"az",
     "nativeName":"Az\u0259rbaycan",
     "topLevelDomain":[
       ".az"
@@ -548,6 +564,7 @@
   },
   {
     "name":"Bahamas",
+    "codeCountries":"bs",
     "nativeName":"Bahamas",
     "topLevelDomain":[
       ".bs"
@@ -577,6 +594,7 @@
   },
   {
     "name":"Bahrain",
+    "codeCountries":"bh",
     "nativeName":"\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
     "topLevelDomain":[
       ".bh"
@@ -606,6 +624,7 @@
   },
   {
     "name":"Bangladesh",
+    "codeCountries":"bd",
     "nativeName":"Bangladesh",
     "topLevelDomain":[
       ".bd"
@@ -636,6 +655,7 @@
   },
   {
     "name":"Barbados",
+    "codeCountries":"bb",
     "nativeName":"Barbados",
     "topLevelDomain":[
       ".bb"
@@ -665,6 +685,7 @@
   },
   {
     "name":"Belarus",
+    "codeCountries":"by",
     "nativeName":"\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
     "topLevelDomain":[
       ".by"
@@ -709,6 +730,7 @@
   },
   {
     "name":"Belgium",
+    "codeCountries":"be",
     "nativeName":"Belgi\u00eb",
     "topLevelDomain":[
       ".be"
@@ -753,6 +775,7 @@
   },
   {
     "name":"Belize",
+    "codeCountries":"bz",
     "nativeName":"Belize",
     "topLevelDomain":[
       ".bz"
@@ -789,6 +812,7 @@
   },
   {
     "name":"Benin",
+    "codeCountries":"bj",
     "nativeName":"B\u00e9nin",
     "topLevelDomain":[
       ".bj"
@@ -821,6 +845,7 @@
   },
   {
     "name":"Bermuda",
+    "codeCountries":"bm",
     "nativeName":"Bermuda",
     "topLevelDomain":[
       ".bm"
@@ -850,6 +875,7 @@
   },
   {
     "name":"Bhutan",
+    "codeCountries":"bt",
     "nativeName":"\u02bcbrug-yul",
     "topLevelDomain":[
       ".bt"
@@ -885,6 +911,7 @@
   },
   {
     "name":"Bolivia (Plurinational State of)",
+    "codeCountries":"bo",
     "nativeName":"Bolivia",
     "topLevelDomain":[
       ".bo"
@@ -930,6 +957,7 @@
   },
   {
     "name":"Bonaire, Sint Eustatius and Saba",
+    "codeCountries":"bq",
     "nativeName":"Bonaire",
     "topLevelDomain":[
       ".an",
@@ -960,6 +988,7 @@
   },
   {
     "name":"Bosnia and Herzegovina",
+    "codeCountries":"ba",
     "nativeName":"Bosna i Hercegovina",
     "topLevelDomain":[
       ".ba"
@@ -1003,6 +1032,7 @@
   },
   {
     "name":"Botswana",
+    "codeCountries":"bw",
     "nativeName":"Botswana",
     "topLevelDomain":[
       ".bw"
@@ -1041,6 +1071,7 @@
   },
   {
     "name":"Bouvet Island",
+    "codeCountries":"bv",
     "nativeName":"Bouvet\u00f8ya",
     "topLevelDomain":[
       ".bv"
@@ -1082,6 +1113,7 @@
   },
   {
     "name":"Brazil",
+    "codeCountries":"br",
     "nativeName":"Brasil",
     "topLevelDomain":[
       ".br"
@@ -1120,6 +1152,7 @@
   },
   {
     "name":"British Indian Ocean Territory",
+    "codeCountries":"io",
     "nativeName":"British Indian Ocean Territory",
     "topLevelDomain":[
       ".io"
@@ -1149,6 +1182,7 @@
   },
   {
     "name":"United States Minor Outlying Islands",
+    "codeCountries":"um",
     "nativeName":"United States Minor Outlying Islands",
     "topLevelDomain":[
       ".us"
@@ -1178,6 +1212,7 @@
   },
   {
     "name":"Virgin Islands (British)",
+    "codeCountries":"vg",
     "nativeName":"British Virgin Islands",
     "topLevelDomain":[
       ".vg"
@@ -1212,6 +1247,7 @@
   },
   {
     "name":"Virgin Islands (U.S.)",
+    "codeCountries":"vi",
     "nativeName":"Virgin Islands of the United States",
     "topLevelDomain":[
       ".vi"
@@ -1241,6 +1277,7 @@
   },
   {
     "name":"Brunei Darussalam",
+    "codeCountries":"bn",
     "nativeName":"Negara Brunei Darussalam",
     "topLevelDomain":[
       ".bn"
@@ -1275,6 +1312,7 @@
   },
   {
     "name":"Bulgaria",
+    "codeCountries":"bg",
     "nativeName":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "topLevelDomain":[
       ".bg"
@@ -1308,6 +1346,7 @@
   },
   {
     "name":"Burkina Faso",
+    "codeCountries":"bf",
     "nativeName":"Burkina Faso",
     "topLevelDomain":[
       ".bf"
@@ -1348,6 +1387,7 @@
   },
   {
     "name":"Burundi",
+    "codeCountries":"bi",
     "nativeName":"Burundi",
     "topLevelDomain":[
       ".bi"
@@ -1385,6 +1425,7 @@
   },
   {
     "name":"Cambodia",
+    "codeCountries":"kh",
     "nativeName":"K\u00e2mp\u016dch\u00e9a",
     "topLevelDomain":[
       ".kh"
@@ -1421,6 +1462,7 @@
   },
   {
     "name":"Cameroon",
+    "codeCountries":"cm",
     "nativeName":"Cameroon",
     "topLevelDomain":[
       ".cm"
@@ -1461,6 +1503,7 @@
   },
   {
     "name":"Canada",
+    "codeCountries":"ca",
     "nativeName":"Canada",
     "topLevelDomain":[
       ".ca"
@@ -1496,6 +1539,7 @@
   },
   {
     "name":"Cabo Verde",
+    "codeCountries":"cv",
     "nativeName":"Cabo Verde",
     "topLevelDomain":[
       ".cv"
@@ -1525,6 +1569,7 @@
   },
   {
     "name":"Cayman Islands",
+    "codeCountries":"ky",
     "nativeName":"Cayman Islands",
     "topLevelDomain":[
       ".ky"
@@ -1554,6 +1599,7 @@
   },
   {
     "name":"Central African Republic",
+    "codeCountries":"cf",
     "nativeName":"K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
     "topLevelDomain":[
       ".cf"
@@ -1594,6 +1640,7 @@
   },
   {
     "name":"Chad",
+    "codeCountries":"td",
     "nativeName":"Tchad",
     "topLevelDomain":[
       ".td"
@@ -1634,6 +1681,7 @@
   },
   {
     "name":"Chile",
+    "codeCountries":"cl",
     "nativeName":"Chile",
     "topLevelDomain":[
       ".cl"
@@ -1665,6 +1713,7 @@
   },
   {
     "name":"China",
+    "codeCountries":"cn",
     "nativeName":"\u4e2d\u56fd",
     "topLevelDomain":[
       ".cn"
@@ -1708,6 +1757,7 @@
   },
   {
     "name":"Christmas Island",
+    "codeCountries":"cx",
     "nativeName":"Christmas Island",
     "topLevelDomain":[
       ".cx"
@@ -1737,6 +1787,7 @@
   },
   {
     "name":"Cocos (Keeling) Islands",
+    "codeCountries":"cc",
     "nativeName":"Cocos (Keeling) Islands",
     "topLevelDomain":[
       ".cc"
@@ -1766,6 +1817,7 @@
   },
   {
     "name":"Colombia",
+    "codeCountries":"co",
     "nativeName":"Colombia",
     "topLevelDomain":[
       ".co"
@@ -1799,6 +1851,7 @@
   },
   {
     "name":"Comoros",
+    "codeCountries":"km",
     "nativeName":"Komori",
     "topLevelDomain":[
       ".km"
@@ -1834,6 +1887,7 @@
   },
   {
     "name":"Congo",
+    "codeCountries":"cg",
     "nativeName":"R\u00e9publique du Congo",
     "topLevelDomain":[
       ".cg"
@@ -1873,6 +1927,7 @@
   },
   {
     "name":"Congo (Democratic Republic of the)",
+    "codeCountries":"cd",
     "nativeName":"R\u00e9publique d\u00e9mocratique du Congo",
     "topLevelDomain":[
       ".cd"
@@ -1934,6 +1989,7 @@
   },
   {
     "name":"Cook Islands",
+    "codeCountries":"ck",
     "nativeName":"Cook Islands",
     "topLevelDomain":[
       ".ck"
@@ -1968,6 +2024,7 @@
   },
   {
     "name":"Costa Rica",
+    "codeCountries":"cr",
     "nativeName":"Costa Rica",
     "topLevelDomain":[
       ".cr"
@@ -1998,6 +2055,7 @@
   },
   {
     "name":"Croatia",
+    "codeCountries":"hr",
     "nativeName":"Hrvatska",
     "topLevelDomain":[
       ".hr"
@@ -2031,6 +2089,7 @@
   },
   {
     "name":"Cuba",
+    "codeCountries":"cu",
     "nativeName":"Cuba",
     "topLevelDomain":[
       ".cu"
@@ -2065,6 +2124,7 @@
   },
   {
     "name":"Cura\u00e7ao",
+    "codeCountries":"cw",
     "nativeName":"Cura\u00e7ao",
     "topLevelDomain":[
       ".cw"
@@ -2106,6 +2166,7 @@
   },
   {
     "name":"Cyprus",
+    "codeCountries":"cy",
     "nativeName":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "topLevelDomain":[
       ".cy"
@@ -2147,6 +2208,7 @@
   },
   {
     "name":"Czech Republic",
+    "codeCountries":"cz",
     "nativeName":"\u010cesk\u00e1 republika",
     "topLevelDomain":[
       ".cz"
@@ -2185,6 +2247,7 @@
   },
   {
     "name":"Denmark",
+    "codeCountries":"dk",
     "nativeName":"Danmark",
     "topLevelDomain":[
       ".dk"
@@ -2214,6 +2277,7 @@
   },
   {
     "name":"Djibouti",
+    "codeCountries":"dj",
     "nativeName":"Djibouti",
     "topLevelDomain":[
       ".dj"
@@ -2251,6 +2315,7 @@
   },
   {
     "name":"Dominica",
+    "codeCountries":"dm",
     "nativeName":"Dominica",
     "topLevelDomain":[
       ".dm"
@@ -2280,6 +2345,7 @@
   },
   {
     "name":"Dominican Republic",
+    "codeCountries":"do",
     "nativeName":"Rep\u00fablica Dominicana",
     "topLevelDomain":[
       ".do"
@@ -2309,6 +2375,7 @@
   },
   {
     "name":"Ecuador",
+    "codeCountries":"ec",
     "nativeName":"Ecuador",
     "topLevelDomain":[
       ".ec"
@@ -2339,6 +2406,7 @@
   },
   {
     "name":"Egypt",
+    "codeCountries":"eg",
     "nativeName":"\u0645\u0635\u0631\u200e",
     "topLevelDomain":[
       ".eg"
@@ -2370,6 +2438,7 @@
   },
   {
     "name":"El Salvador",
+    "codeCountries":"sv",
     "nativeName":"El Salvador",
     "topLevelDomain":[
       ".sv"
@@ -2400,6 +2469,7 @@
   },
   {
     "name":"Equatorial Guinea",
+    "codeCountries":"gq",
     "nativeName":"Guinea Ecuatorial",
     "topLevelDomain":[
       ".gq"
@@ -2436,6 +2506,7 @@
   },
   {
     "name":"Eritrea",
+    "codeCountries":"er",
     "nativeName":"\u12a4\u122d\u1275\u122b",
     "topLevelDomain":[
       ".er"
@@ -2479,6 +2550,7 @@
   },
   {
     "name":"Estonia",
+    "codeCountries":"ee",
     "nativeName":"Eesti",
     "topLevelDomain":[
       ".ee"
@@ -2509,6 +2581,7 @@
   },
   {
     "name":"Ethiopia",
+    "codeCountries":"et",
     "nativeName":"\u12a2\u1275\u12ee\u1335\u12eb",
     "topLevelDomain":[
       ".et"
@@ -2543,6 +2616,7 @@
   },
   {
     "name":"Falkland Islands (Malvinas)",
+    "codeCountries":"fk",
     "nativeName":"Falkland Islands",
     "topLevelDomain":[
       ".fk"
@@ -2572,6 +2646,7 @@
   },
   {
     "name":"Faroe Islands",
+    "codeCountries":"fo",
     "nativeName":"F\u00f8royar",
     "topLevelDomain":[
       ".fo"
@@ -2606,6 +2681,7 @@
   },
   {
     "name":"Fiji",
+    "codeCountries":"fj",
     "nativeName":"Fiji",
     "topLevelDomain":[
       ".fj"
@@ -2653,6 +2729,7 @@
   },
   {
     "name":"Finland",
+    "codeCountries":"fi",
     "nativeName":"Suomi",
     "topLevelDomain":[
       ".fi"
@@ -2690,6 +2767,7 @@
   },
   {
     "name":"France",
+    "codeCountries":"fr",
     "nativeName":"France",
     "topLevelDomain":[
       ".fr"
@@ -2726,6 +2804,7 @@
   },
   {
     "name":"French Guiana",
+    "codeCountries":"gf",
     "nativeName":"Guyane fran\u00e7aise",
     "topLevelDomain":[
       ".gf"
@@ -2756,6 +2835,7 @@
   },
   {
     "name":"French Polynesia",
+    "codeCountries":"pf",
     "nativeName":"Polyn\u00e9sie fran\u00e7aise",
     "topLevelDomain":[
       ".pf"
@@ -2785,6 +2865,7 @@
   },
   {
     "name":"French Southern Territories",
+    "codeCountries":"tf",
     "nativeName":"Territoire des Terres australes et antarctiques fran\u00e7aises",
     "topLevelDomain":[
       ".tf"
@@ -2814,6 +2895,7 @@
   },
   {
     "name":"Gabon",
+    "codeCountries":"ga",
     "nativeName":"Gabon",
     "topLevelDomain":[
       ".ga"
@@ -2845,6 +2927,7 @@
   },
   {
     "name":"Gambia",
+    "codeCountries":"gm",
     "nativeName":"Gambia",
     "topLevelDomain":[
       ".gm"
@@ -2874,6 +2957,7 @@
   },
   {
     "name":"Georgia",
+    "codeCountries":"ge",
     "nativeName":"\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
     "topLevelDomain":[
       ".ge"
@@ -2906,6 +2990,7 @@
   },
   {
     "name":"Germany",
+    "codeCountries":"de",
     "nativeName":"Deutschland",
     "topLevelDomain":[
       ".de"
@@ -2943,6 +3028,7 @@
   },
   {
     "name":"Ghana",
+    "codeCountries":"gh",
     "nativeName":"Ghana",
     "topLevelDomain":[
       ".gh"
@@ -2974,6 +3060,7 @@
   },
   {
     "name":"Gibraltar",
+    "codeCountries":"gi",
     "nativeName":"Gibraltar",
     "topLevelDomain":[
       ".gi"
@@ -3003,6 +3090,7 @@
   },
   {
     "name":"Greece",
+    "codeCountries":"gr",
     "nativeName":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "topLevelDomain":[
       ".gr"
@@ -3035,6 +3123,7 @@
   },
   {
     "name":"Greenland",
+    "codeCountries":"gl",
     "nativeName":"Kalaallit Nunaat",
     "topLevelDomain":[
       ".gl"
@@ -3064,6 +3153,7 @@
   },
   {
     "name":"Grenada",
+    "codeCountries":"gd",
     "nativeName":"Grenada",
     "topLevelDomain":[
       ".gd"
@@ -3093,6 +3183,7 @@
   },
   {
     "name":"Guadeloupe",
+    "codeCountries":"gp",
     "nativeName":"Guadeloupe",
     "topLevelDomain":[
       ".gp"
@@ -3122,6 +3213,7 @@
   },
   {
     "name":"Guam",
+    "codeCountries":"gu",
     "nativeName":"Guam",
     "topLevelDomain":[
       ".gu"
@@ -3163,6 +3255,7 @@
   },
   {
     "name":"Guatemala",
+    "codeCountries":"gt",
     "nativeName":"Guatemala",
     "topLevelDomain":[
       ".gt"
@@ -3195,6 +3288,7 @@
   },
   {
     "name":"Guernsey",
+    "codeCountries":"gg",
     "nativeName":"Guernsey",
     "topLevelDomain":[
       ".gg"
@@ -3235,6 +3329,7 @@
   },
   {
     "name":"Guinea",
+    "codeCountries":"gn",
     "nativeName":"Guin\u00e9e",
     "topLevelDomain":[
       ".gn"
@@ -3275,6 +3370,7 @@
   },
   {
     "name":"Guinea-Bissau",
+    "codeCountries":"gw",
     "nativeName":"Guin\u00e9-Bissau",
     "topLevelDomain":[
       ".gw"
@@ -3305,6 +3401,7 @@
   },
   {
     "name":"Guyana",
+    "codeCountries":"gy",
     "nativeName":"Guyana",
     "topLevelDomain":[
       ".gy"
@@ -3336,6 +3433,7 @@
   },
   {
     "name":"Haiti",
+    "codeCountries":"ht",
     "nativeName":"Ha\u00efti",
     "topLevelDomain":[
       ".ht"
@@ -3371,6 +3469,7 @@
   },
   {
     "name":"Heard Island and McDonald Islands",
+    "codeCountries":"hm",
     "nativeName":"Heard Island and McDonald Islands",
     "topLevelDomain":[
       ".hm",
@@ -3401,6 +3500,7 @@
   },
   {
     "name":"Holy See",
+    "codeCountries":"va",
     "nativeName":"Sancta Sedes",
     "topLevelDomain":[
       ".va"
@@ -3448,6 +3548,7 @@
   },
   {
     "name":"Honduras",
+    "codeCountries":"hn",
     "nativeName":"Honduras",
     "topLevelDomain":[
       ".hn"
@@ -3479,6 +3580,7 @@
   },
   {
     "name":"Hong Kong",
+    "codeCountries":"hk",
     "nativeName":"\u9999\u6e2f",
     "topLevelDomain":[
       ".hk"
@@ -3514,6 +3616,7 @@
   },
   {
     "name":"Hungary",
+    "codeCountries":"hu",
     "nativeName":"Magyarorsz\u00e1g",
     "topLevelDomain":[
       ".hu"
@@ -3549,6 +3652,7 @@
   },
   {
     "name":"Iceland",
+    "codeCountries":"is",
     "nativeName":"\u00cdsland",
     "topLevelDomain":[
       ".is"
@@ -3578,6 +3682,7 @@
   },
   {
     "name":"India",
+    "codeCountries":"in",
     "nativeName":"\u092d\u093e\u0930\u0924",
     "topLevelDomain":[
       ".in"
@@ -3620,6 +3725,7 @@
   },
   {
     "name":"Indonesia",
+    "codeCountries":"id",
     "nativeName":"Indonesia",
     "topLevelDomain":[
       ".id"
@@ -3651,6 +3757,7 @@
   },
   {
     "name":"C\u00f4te d'Ivoire",
+    "codeCountries":"ci",
     "nativeName":"C\u00f4te d'Ivoire",
     "topLevelDomain":[
       ".ci"
@@ -3684,6 +3791,7 @@
   },
   {
     "name":"Iran (Islamic Republic of)",
+    "codeCountries":"ir",
     "nativeName":"\u0627\u06cc\u0631\u0627\u0646",
     "topLevelDomain":[
       ".ir"
@@ -3719,6 +3827,7 @@
   },
   {
     "name":"Iraq",
+    "codeCountries":"iq",
     "nativeName":"\u0627\u0644\u0639\u0631\u0627\u0642",
     "topLevelDomain":[
       ".iq"
@@ -3759,6 +3868,7 @@
   },
   {
     "name":"Ireland",
+    "codeCountries":"ie",
     "nativeName":"\u00c9ire",
     "topLevelDomain":[
       ".ie"
@@ -3794,6 +3904,7 @@
   },
   {
     "name":"Isle of Man",
+    "codeCountries":"im",
     "nativeName":"Isle of Man",
     "topLevelDomain":[
       ".im"
@@ -3834,6 +3945,7 @@
   },
   {
     "name":"Israel",
+    "codeCountries":"il",
     "nativeName":"\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
     "topLevelDomain":[
       ".il"
@@ -3872,6 +3984,7 @@
   },
   {
     "name":"Italy",
+    "codeCountries":"it",
     "nativeName":"Italia",
     "topLevelDomain":[
       ".it"
@@ -3906,6 +4019,7 @@
   },
   {
     "name":"Jamaica",
+    "codeCountries":"jm",
     "nativeName":"Jamaica",
     "topLevelDomain":[
       ".jm"
@@ -3935,6 +4049,7 @@
   },
   {
     "name":"Japan",
+    "codeCountries":"jp",
     "nativeName":"\u65e5\u672c",
     "topLevelDomain":[
       ".jp"
@@ -3964,6 +4079,7 @@
   },
   {
     "name":"Jersey",
+    "codeCountries":"je",
     "nativeName":"Jersey",
     "topLevelDomain":[
       ".je"
@@ -4004,6 +4120,7 @@
   },
   {
     "name":"Jordan",
+    "codeCountries":"jo",
     "nativeName":"\u0627\u0644\u0623\u0631\u062f\u0646",
     "topLevelDomain":[
       ".jo"
@@ -4036,6 +4153,7 @@
   },
   {
     "name":"Kazakhstan",
+    "codeCountries":"kz",
     "nativeName":"\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
     "topLevelDomain":[
       ".kz",
@@ -4076,6 +4194,7 @@
   },
   {
     "name":"Kenya",
+    "codeCountries":"ke",
     "nativeName":"Kenya",
     "topLevelDomain":[
       ".ke"
@@ -4115,6 +4234,7 @@
   },
   {
     "name":"Kiribati",
+    "codeCountries":"ki",
     "nativeName":"Kiribati",
     "topLevelDomain":[
       ".ki"
@@ -4149,6 +4269,7 @@
   },
   {
     "name":"Kuwait",
+    "codeCountries":"kw",
     "nativeName":"\u0627\u0644\u0643\u0648\u064a\u062a",
     "topLevelDomain":[
       ".kw"
@@ -4179,6 +4300,7 @@
   },
   {
     "name":"Kyrgyzstan",
+    "codeCountries":"kg",
     "nativeName":"\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
     "topLevelDomain":[
       ".kg"
@@ -4217,6 +4339,7 @@
   },
   {
     "name":"Lao People's Democratic Republic",
+    "codeCountries":"la",
     "nativeName":"\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7",
     "topLevelDomain":[
       ".la"
@@ -4250,6 +4373,7 @@
   },
   {
     "name":"Latvia",
+    "codeCountries":"lv",
     "nativeName":"Latvija",
     "topLevelDomain":[
       ".lv"
@@ -4282,6 +4406,7 @@
   },
   {
     "name":"Lebanon",
+    "codeCountries":"lb",
     "nativeName":"\u0644\u0628\u0646\u0627\u0646",
     "topLevelDomain":[
       ".lb"
@@ -4318,6 +4443,7 @@
   },
   {
     "name":"Lesotho",
+    "codeCountries":"ls",
     "nativeName":"Lesotho",
     "topLevelDomain":[
       ".ls"
@@ -4358,6 +4484,7 @@
   },
   {
     "name":"Liberia",
+    "codeCountries":"lr",
     "nativeName":"Liberia",
     "topLevelDomain":[
       ".lr"
@@ -4389,6 +4516,7 @@
   },
   {
     "name":"Libya",
+    "codeCountries":"ly",
     "nativeName":"\u200f\u0644\u064a\u0628\u064a\u0627",
     "topLevelDomain":[
       ".ly"
@@ -4423,6 +4551,7 @@
   },
   {
     "name":"Liechtenstein",
+    "codeCountries":"li",
     "nativeName":"Liechtenstein",
     "topLevelDomain":[
       ".li"
@@ -4453,6 +4582,7 @@
   },
   {
     "name":"Lithuania",
+    "codeCountries":"lt",
     "nativeName":"Lietuva",
     "topLevelDomain":[
       ".lt"
@@ -4485,6 +4615,7 @@
   },
   {
     "name":"Luxembourg",
+    "codeCountries":"lu",
     "nativeName":"Luxembourg",
     "topLevelDomain":[
       ".lu"
@@ -4528,6 +4659,7 @@
   },
   {
     "name":"Macao",
+    "codeCountries":"mo",
     "nativeName":"\u6fb3\u9580",
     "topLevelDomain":[
       ".mo"
@@ -4563,6 +4695,7 @@
   },
   {
     "name":"Macedonia (the former Yugoslav Republic of)",
+    "codeCountries":"mk",
     "nativeName":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
     "topLevelDomain":[
       ".mk"
@@ -4596,6 +4729,7 @@
   },
   {
     "name":"Madagascar",
+    "codeCountries":"mg",
     "nativeName":"Madagasikara",
     "topLevelDomain":[
       ".mg"
@@ -4631,6 +4765,7 @@
   },
   {
     "name":"Malawi",
+    "codeCountries":"mw",
     "nativeName":"Malawi",
     "topLevelDomain":[
       ".mw"
@@ -4668,6 +4803,7 @@
   },
   {
     "name":"Malaysia",
+    "codeCountries":"my",
     "nativeName":"Malaysia",
     "topLevelDomain":[
       ".my"
@@ -4699,6 +4835,7 @@
   },
   {
     "name":"Maldives",
+    "codeCountries":"mv",
     "nativeName":"Maldives",
     "topLevelDomain":[
       ".mv"
@@ -4728,6 +4865,7 @@
   },
   {
     "name":"Mali",
+    "codeCountries":"ml",
     "nativeName":"Mali",
     "topLevelDomain":[
       ".ml"
@@ -4763,6 +4901,7 @@
   },
   {
     "name":"Malta",
+    "codeCountries":"mt",
     "nativeName":"Malta",
     "topLevelDomain":[
       ".mt"
@@ -4798,6 +4937,7 @@
   },
   {
     "name":"Marshall Islands",
+    "codeCountries":"mh",
     "nativeName":"M\u0327aje\u013c",
     "topLevelDomain":[
       ".mh"
@@ -4833,6 +4973,7 @@
   },
   {
     "name":"Martinique",
+    "codeCountries":"mq",
     "nativeName":"Martinique",
     "topLevelDomain":[
       ".mq"
@@ -4862,6 +5003,7 @@
   },
   {
     "name":"Mauritania",
+    "codeCountries":"mr",
     "nativeName":"\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
     "topLevelDomain":[
       ".mr"
@@ -4894,6 +5036,7 @@
   },
   {
     "name":"Mauritius",
+    "codeCountries":"mu",
     "nativeName":"Maurice",
     "topLevelDomain":[
       ".mu"
@@ -4923,6 +5066,7 @@
   },
   {
     "name":"Mayotte",
+    "codeCountries":"yt",
     "nativeName":"Mayotte",
     "topLevelDomain":[
       ".yt"
@@ -4952,6 +5096,7 @@
   },
   {
     "name":"Mexico",
+    "codeCountries":"mx",
     "nativeName":"M\u00e9xico",
     "topLevelDomain":[
       ".mx"
@@ -4983,6 +5128,7 @@
   },
   {
     "name":"Micronesia (Federated States of)",
+    "codeCountries":"fm",
     "nativeName":"Micronesia",
     "topLevelDomain":[
       ".fm"
@@ -5017,6 +5163,7 @@
   },
   {
     "name":"Moldova (Republic of)",
+    "codeCountries":"md",
     "nativeName":"Moldova",
     "topLevelDomain":[
       ".md"
@@ -5047,6 +5194,7 @@
   },
   {
     "name":"Monaco",
+    "codeCountries":"mc",
     "nativeName":"Monaco",
     "topLevelDomain":[
       ".mc"
@@ -5076,6 +5224,7 @@
   },
   {
     "name":"Mongolia",
+    "codeCountries":"mn",
     "nativeName":"\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
     "topLevelDomain":[
       ".mn"
@@ -5106,6 +5255,7 @@
   },
   {
     "name":"Montenegro",
+    "codeCountries":"me",
     "nativeName":"\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
     "topLevelDomain":[
       ".me"
@@ -5157,6 +5307,7 @@
   },
   {
     "name":"Montserrat",
+    "codeCountries":"ms",
     "nativeName":"Montserrat",
     "topLevelDomain":[
       ".ms"
@@ -5186,6 +5337,7 @@
   },
   {
     "name":"Morocco",
+    "codeCountries":"ma",
     "nativeName":"\u0627\u0644\u0645\u063a\u0631\u0628",
     "topLevelDomain":[
       ".ma"
@@ -5217,6 +5369,7 @@
   },
   {
     "name":"Mozambique",
+    "codeCountries":"mz",
     "nativeName":"Mo\u00e7ambique",
     "topLevelDomain":[
       ".mz"
@@ -5251,6 +5404,7 @@
   },
   {
     "name":"Myanmar",
+    "codeCountries":"mm",
     "nativeName":"Myanma",
     "topLevelDomain":[
       ".mm"
@@ -5284,6 +5438,7 @@
   },
   {
     "name":"Namibia",
+    "codeCountries":"na",
     "nativeName":"Namibia",
     "topLevelDomain":[
       ".na"
@@ -5327,6 +5482,7 @@
   },
   {
     "name":"Nauru",
+    "codeCountries":"nr",
     "nativeName":"Nauru",
     "topLevelDomain":[
       ".nr"
@@ -5367,6 +5523,7 @@
   },
   {
     "name":"Nepal",
+    "codeCountries":"np",
     "nativeName":"\u0928\u0947\u092a\u093e\u0932",
     "topLevelDomain":[
       ".np"
@@ -5397,6 +5554,7 @@
   },
   {
     "name":"Netherlands",
+    "codeCountries":"nl",
     "nativeName":"Nederland",
     "topLevelDomain":[
       ".nl"
@@ -5427,6 +5585,7 @@
   },
   {
     "name":"New Caledonia",
+    "codeCountries":"nc",
     "nativeName":"Nouvelle-Cal\u00e9donie",
     "topLevelDomain":[
       ".nc"
@@ -5456,6 +5615,7 @@
   },
   {
     "name":"New Zealand",
+    "codeCountries":"nz",
     "nativeName":"New Zealand",
     "topLevelDomain":[
       ".nz"
@@ -5491,6 +5651,7 @@
   },
   {
     "name":"Nicaragua",
+    "codeCountries":"ni",
     "nativeName":"Nicaragua",
     "topLevelDomain":[
       ".ni"
@@ -5521,6 +5682,7 @@
   },
   {
     "name":"Niger",
+    "codeCountries":"ne",
     "nativeName":"Niger",
     "topLevelDomain":[
       ".ne"
@@ -5556,6 +5718,7 @@
   },
   {
     "name":"Nigeria",
+    "codeCountries":"ng",
     "nativeName":"Nigeria",
     "topLevelDomain":[
       ".ng"
@@ -5588,6 +5751,7 @@
   },
   {
     "name":"Niue",
+    "codeCountries":"nu",
     "nativeName":"Niu\u0113",
     "topLevelDomain":[
       ".nu"
@@ -5622,6 +5786,7 @@
   },
   {
     "name":"Norfolk Island",
+    "codeCountries":"nf",
     "nativeName":"Norfolk Island",
     "topLevelDomain":[
       ".nf"
@@ -5651,6 +5816,7 @@
   },
   {
     "name":"Korea (Democratic People's Republic of)",
+    "codeCountries":"kp",
     "nativeName":"\ubd81\ud55c",
     "topLevelDomain":[
       ".kp"
@@ -5682,6 +5848,7 @@
   },
   {
     "name":"Northern Mariana Islands",
+    "codeCountries":"mp",
     "nativeName":"Northern Mariana Islands",
     "topLevelDomain":[
       ".mp"
@@ -5717,6 +5884,7 @@
   },
   {
     "name":"Norway",
+    "codeCountries":"no",
     "nativeName":"Norge",
     "topLevelDomain":[
       ".no"
@@ -5760,6 +5928,7 @@
   },
   {
     "name":"Oman",
+    "codeCountries":"om",
     "nativeName":"\u0639\u0645\u0627\u0646",
     "topLevelDomain":[
       ".om"
@@ -5791,6 +5960,7 @@
   },
   {
     "name":"Pakistan",
+    "codeCountries":"pk",
     "nativeName":"Pakistan",
     "topLevelDomain":[
       ".pk"
@@ -5829,6 +5999,7 @@
   },
   {
     "name":"Palau",
+    "codeCountries":"pw",
     "nativeName":"Palau",
     "topLevelDomain":[
       ".pw"
@@ -5863,6 +6034,7 @@
   },
   {
     "name":"Palestine, State of",
+    "codeCountries":"ps",
     "nativeName":"\u0641\u0644\u0633\u0637\u064a\u0646",
     "topLevelDomain":[
       ".ps"
@@ -5894,6 +6066,7 @@
   },
   {
     "name":"Panama",
+    "codeCountries":"pa",
     "nativeName":"Panam\u00e1",
     "topLevelDomain":[
       ".pa"
@@ -5929,6 +6102,7 @@
   },
   {
     "name":"Papua New Guinea",
+    "codeCountries":"pg",
     "nativeName":"Papua Niugini",
     "topLevelDomain":[
       ".pg"
@@ -5958,6 +6132,7 @@
   },
   {
     "name":"Paraguay",
+    "codeCountries":"py",
     "nativeName":"Paraguay",
     "topLevelDomain":[
       ".py"
@@ -5995,6 +6170,7 @@
   },
   {
     "name":"Peru",
+    "codeCountries":"pe",
     "nativeName":"Per\u00fa",
     "topLevelDomain":[
       ".pe"
@@ -6028,6 +6204,7 @@
   },
   {
     "name":"Philippines",
+    "codeCountries":"ph",
     "nativeName":"Pilipinas",
     "topLevelDomain":[
       ".ph"
@@ -6057,6 +6234,7 @@
   },
   {
     "name":"Pitcairn",
+    "codeCountries":"pn",
     "nativeName":"Pitcairn Islands",
     "topLevelDomain":[
       ".pn"
@@ -6091,6 +6269,7 @@
   },
   {
     "name":"Poland",
+    "codeCountries":"pl",
     "nativeName":"Polska",
     "topLevelDomain":[
       ".pl"
@@ -6126,6 +6305,7 @@
   },
   {
     "name":"Portugal",
+    "codeCountries":"pt",
     "nativeName":"Portugal",
     "topLevelDomain":[
       ".pt"
@@ -6155,6 +6335,7 @@
   },
   {
     "name":"Puerto Rico",
+    "codeCountries":"pr",
     "nativeName":"Puerto Rico",
     "topLevelDomain":[
       ".pr"
@@ -6190,6 +6371,7 @@
   },
   {
     "name":"Qatar",
+    "codeCountries":"qa",
     "nativeName":"\u0642\u0637\u0631",
     "topLevelDomain":[
       ".qa"
@@ -6219,6 +6401,7 @@
   },
   {
     "name":"Republic of Kosovo",
+    "codeCountries":"xk",
     "nativeName":"Republika e Kosov\u00ebs",
     "topLevelDomain":[
       ""
@@ -6257,6 +6440,7 @@
   },
   {
     "name":"R\u00e9union",
+    "codeCountries":"re",
     "nativeName":"La R\u00e9union",
     "topLevelDomain":[
       ".re"
@@ -6286,6 +6470,7 @@
   },
   {
     "name":"Romania",
+    "codeCountries":"ro",
     "nativeName":"Rom\u00e2nia",
     "topLevelDomain":[
       ".ro"
@@ -6319,6 +6504,7 @@
   },
   {
     "name":"Russian Federation",
+    "codeCountries":"ru",
     "nativeName":"\u0420\u043e\u0441\u0441\u0438\u044f",
     "topLevelDomain":[
       ".ru"
@@ -6361,6 +6547,7 @@
   },
   {
     "name":"Rwanda",
+    "codeCountries":"rw",
     "nativeName":"Rwanda",
     "topLevelDomain":[
       ".rw"
@@ -6405,6 +6592,7 @@
   },
   {
     "name":"Saint Barth\u00e9lemy",
+    "codeCountries":"bl",
     "nativeName":"Saint-Barth\u00e9lemy",
     "topLevelDomain":[
       ".bl"
@@ -6434,6 +6622,7 @@
   },
   {
     "name":"Saint Helena, Ascension and Tristan da Cunha",
+    "codeCountries":"sh",
     "nativeName":"Saint Helena",
     "topLevelDomain":[
       ".sh"
@@ -6463,6 +6652,7 @@
   },
   {
     "name":"Saint Kitts and Nevis",
+    "codeCountries":"kn",
     "nativeName":"Saint Kitts and Nevis",
     "topLevelDomain":[
       ".kn"
@@ -6492,6 +6682,7 @@
   },
   {
     "name":"Saint Lucia",
+    "codeCountries":"lc",
     "nativeName":"Saint Lucia",
     "topLevelDomain":[
       ".lc"
@@ -6521,6 +6712,7 @@
   },
   {
     "name":"Saint Martin (French part)",
+    "codeCountries":"mf",
     "nativeName":"Saint-Martin",
     "topLevelDomain":[
       ".mf",
@@ -6565,6 +6757,7 @@
   },
   {
     "name":"Saint Pierre and Miquelon",
+    "codeCountries":"pm",
     "nativeName":"Saint-Pierre-et-Miquelon",
     "topLevelDomain":[
       ".pm"
@@ -6594,6 +6787,7 @@
   },
   {
     "name":"Saint Vincent and the Grenadines",
+    "codeCountries":"vc",
     "nativeName":"Saint Vincent and the Grenadines",
     "topLevelDomain":[
       ".vc"
@@ -6623,6 +6817,7 @@
   },
   {
     "name":"Samoa",
+    "codeCountries":"ws",
     "nativeName":"Samoa",
     "topLevelDomain":[
       ".ws"
@@ -6658,6 +6853,7 @@
   },
   {
     "name":"San Marino",
+    "codeCountries":"sm",
     "nativeName":"San Marino",
     "topLevelDomain":[
       ".sm"
@@ -6687,6 +6883,7 @@
   },
   {
     "name":"Sao Tome and Principe",
+    "codeCountries":"st",
     "nativeName":"S\u00e3o Tom\u00e9 e Pr\u00edncipe",
     "topLevelDomain":[
       ".st"
@@ -6716,6 +6913,7 @@
   },
   {
     "name":"Saudi Arabia",
+    "codeCountries":"sa",
     "nativeName":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "topLevelDomain":[
       ".sa"
@@ -6751,6 +6949,7 @@
   },
   {
     "name":"Senegal",
+    "codeCountries":"sn",
     "nativeName":"S\u00e9n\u00e9gal",
     "topLevelDomain":[
       ".sn"
@@ -6784,6 +6983,7 @@
   },
   {
     "name":"Serbia",
+    "codeCountries":"rs",
     "nativeName":"\u0421\u0440\u0431\u0438\u0458\u0430",
     "topLevelDomain":[
       ".rs"
@@ -6820,6 +7020,7 @@
   },
   {
     "name":"Seychelles",
+    "codeCountries":"sc",
     "nativeName":"Seychelles",
     "topLevelDomain":[
       ".sc"
@@ -6855,6 +7056,7 @@
   },
   {
     "name":"Sierra Leone",
+    "codeCountries":"sl",
     "nativeName":"Sierra Leone",
     "topLevelDomain":[
       ".sl"
@@ -6885,6 +7087,7 @@
   },
   {
     "name":"Singapore",
+    "codeCountries":"sg",
     "nativeName":"Singapore",
     "topLevelDomain":[
       ".sg"
@@ -6937,6 +7140,7 @@
   },
   {
     "name":"Sint Maarten (Dutch part)",
+    "codeCountries":"sx",
     "nativeName":"Sint Maarten",
     "topLevelDomain":[
       ".sx"
@@ -6972,6 +7176,7 @@
   },
   {
     "name":"Slovakia",
+    "codeCountries":"sk",
     "nativeName":"Slovensko",
     "topLevelDomain":[
       ".sk"
@@ -7005,6 +7210,7 @@
   },
   {
     "name":"Slovenia",
+    "codeCountries":"si",
     "nativeName":"Slovenija",
     "topLevelDomain":[
       ".si"
@@ -7037,6 +7243,7 @@
   },
   {
     "name":"Solomon Islands",
+    "codeCountries":"sb",
     "nativeName":"Solomon Islands",
     "topLevelDomain":[
       ".sb"
@@ -7066,6 +7273,7 @@
   },
   {
     "name":"Somalia",
+    "codeCountries":"so",
     "nativeName":"Soomaaliya",
     "topLevelDomain":[
       ".so"
@@ -7103,6 +7311,7 @@
   },
   {
     "name":"South Africa",
+    "codeCountries":"za",
     "nativeName":"South Africa",
     "topLevelDomain":[
       ".za"
@@ -7191,6 +7400,7 @@
   },
   {
     "name":"South Georgia and the South Sandwich Islands",
+    "codeCountries":"gs",
     "nativeName":"South Georgia",
     "topLevelDomain":[
       ".gs"
@@ -7225,6 +7435,7 @@
   },
   {
     "name":"Korea (Republic of)",
+    "codeCountries":"kr",
     "nativeName":"\ub300\ud55c\ubbfc\uad6d",
     "topLevelDomain":[
       ".kr"
@@ -7254,6 +7465,7 @@
   },
   {
     "name":"South Sudan",
+    "codeCountries":"ss",
     "nativeName":"South Sudan",
     "topLevelDomain":[
       ".ss"
@@ -7288,6 +7500,7 @@
   },
   {
     "name":"Spain",
+    "codeCountries":"es",
     "nativeName":"Espa\u00f1a",
     "topLevelDomain":[
       ".es"
@@ -7321,6 +7534,7 @@
   },
   {
     "name":"Sri Lanka",
+    "codeCountries":"lk",
     "nativeName":"\u015br\u012b la\u1e43k\u0101va",
     "topLevelDomain":[
       ".lk"
@@ -7356,6 +7570,7 @@
   },
   {
     "name":"Sudan",
+    "codeCountries":"sd",
     "nativeName":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
     "topLevelDomain":[
       ".sd"
@@ -7397,6 +7612,7 @@
   },
   {
     "name":"Suriname",
+    "codeCountries":"sr",
     "nativeName":"Suriname",
     "topLevelDomain":[
       ".sr"
@@ -7429,6 +7645,7 @@
   },
   {
     "name":"Svalbard and Jan Mayen",
+    "codeCountries":"sj",
     "nativeName":"Svalbard og Jan Mayen",
     "topLevelDomain":[
       ".sj"
@@ -7458,6 +7675,7 @@
   },
   {
     "name":"Swaziland",
+    "codeCountries":"sz",
     "nativeName":"Swaziland",
     "topLevelDomain":[
       ".sz"
@@ -7494,6 +7712,7 @@
   },
   {
     "name":"Sweden",
+    "codeCountries":"se",
     "nativeName":"Sverige",
     "topLevelDomain":[
       ".se"
@@ -7524,6 +7743,7 @@
   },
   {
     "name":"Switzerland",
+    "codeCountries":"ch",
     "nativeName":"Schweiz",
     "topLevelDomain":[
       ".ch"
@@ -7569,6 +7789,7 @@
   },
   {
     "name":"Syrian Arab Republic",
+    "codeCountries":"sy",
     "nativeName":"\u0633\u0648\u0631\u064a\u0627",
     "topLevelDomain":[
       ".sy"
@@ -7602,6 +7823,7 @@
   },
   {
     "name":"Taiwan",
+    "codeCountries":"tw",
     "nativeName":"\u81fa\u7063",
     "topLevelDomain":[
       ".tw"
@@ -7631,6 +7853,7 @@
   },
   {
     "name":"Tajikistan",
+    "codeCountries":"tj",
     "nativeName":"\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
     "topLevelDomain":[
       ".tj"
@@ -7669,6 +7892,7 @@
   },
   {
     "name":"Tanzania, United Republic of",
+    "codeCountries":"tz",
     "nativeName":"Tanzania",
     "topLevelDomain":[
       ".tz"
@@ -7711,6 +7935,7 @@
   },
   {
     "name":"Thailand",
+    "codeCountries":"th",
     "nativeName":"\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
     "topLevelDomain":[
       ".th"
@@ -7743,6 +7968,7 @@
   },
   {
     "name":"Timor-Leste",
+    "codeCountries":"tl",
     "nativeName":"Timor-Leste",
     "topLevelDomain":[
       ".tl"
@@ -7777,6 +8003,7 @@
   },
   {
     "name":"Togo",
+    "codeCountries":"tg",
     "nativeName":"Togo",
     "topLevelDomain":[
       ".tg"
@@ -7808,6 +8035,7 @@
   },
   {
     "name":"Tokelau",
+    "codeCountries":"tk",
     "nativeName":"Tokelau",
     "topLevelDomain":[
       ".tk"
@@ -7837,6 +8065,7 @@
   },
   {
     "name":"Tonga",
+    "codeCountries":"to",
     "nativeName":"Tonga",
     "topLevelDomain":[
       ".to"
@@ -7872,6 +8101,7 @@
   },
   {
     "name":"Trinidad and Tobago",
+    "codeCountries":"tt",
     "nativeName":"Trinidad and Tobago",
     "topLevelDomain":[
       ".tt"
@@ -7901,6 +8131,7 @@
   },
   {
     "name":"Tunisia",
+    "codeCountries":"tn",
     "nativeName":"\u062a\u0648\u0646\u0633",
     "topLevelDomain":[
       ".tn"
@@ -7931,6 +8162,7 @@
   },
   {
     "name":"Turkey",
+    "codeCountries":"tr",
     "nativeName":"T\u00fcrkiye",
     "topLevelDomain":[
       ".tr"
@@ -7967,6 +8199,7 @@
   },
   {
     "name":"Turkmenistan",
+    "codeCountries":"tm",
     "nativeName":"T\u00fcrkmenistan",
     "topLevelDomain":[
       ".tm"
@@ -8005,6 +8238,7 @@
   },
   {
     "name":"Turks and Caicos Islands",
+    "codeCountries":"tc",
     "nativeName":"Turks and Caicos Islands",
     "topLevelDomain":[
       ".tc"
@@ -8034,6 +8268,7 @@
   },
   {
     "name":"Tuvalu",
+    "codeCountries":"tv",
     "nativeName":"Tuvalu",
     "topLevelDomain":[
       ".tv"
@@ -8068,6 +8303,7 @@
   },
   {
     "name":"Uganda",
+    "codeCountries":"ug",
     "nativeName":"Uganda",
     "topLevelDomain":[
       ".ug"
@@ -8107,6 +8343,7 @@
   },
   {
     "name":"Ukraine",
+    "codeCountries":"ua",
     "nativeName":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "topLevelDomain":[
       ".ua"
@@ -8142,6 +8379,7 @@
   },
   {
     "name":"United Arab Emirates",
+    "codeCountries":"ae",
     "nativeName":"\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
     "topLevelDomain":[
       ".ae"
@@ -8172,6 +8410,7 @@
   },
   {
     "name":"United Kingdom of Great Britain and Northern Ireland",
+    "codeCountries":"gb",
     "nativeName":"United Kingdom",
     "topLevelDomain":[
       ".uk"
@@ -8201,6 +8440,7 @@
   },
   {
     "name":"United States of America",
+    "codeCountries":"us",
     "nativeName":"United States",
     "topLevelDomain":[
       ".us"
@@ -8231,6 +8471,7 @@
   },
   {
     "name":"Uruguay",
+    "codeCountries":"uy",
     "nativeName":"Uruguay",
     "topLevelDomain":[
       ".uy"
@@ -8261,6 +8502,7 @@
   },
   {
     "name":"Uzbekistan",
+    "codeCountries":"uz",
     "nativeName":"O\u2018zbekiston",
     "topLevelDomain":[
       ".uz"
@@ -8300,6 +8542,7 @@
   },
   {
     "name":"Vanuatu",
+    "codeCountries":"vu",
     "nativeName":"Vanuatu",
     "topLevelDomain":[
       ".vu"
@@ -8341,6 +8584,7 @@
   },
   {
     "name":"Venezuela (Bolivarian Republic of)",
+    "codeCountries":"ve",
     "nativeName":"Venezuela",
     "topLevelDomain":[
       ".ve"
@@ -8372,6 +8616,7 @@
   },
   {
     "name":"Viet Nam",
+    "codeCountries":"vn",
     "nativeName":"Vi\u1ec7t Nam",
     "topLevelDomain":[
       ".vn"
@@ -8403,6 +8648,7 @@
   },
   {
     "name":"Wallis and Futuna",
+    "codeCountries":"wf",
     "nativeName":"Wallis et Futuna",
     "topLevelDomain":[
       ".wf"
@@ -8432,6 +8678,7 @@
   },
   {
     "name":"Western Sahara",
+    "codeCountries":"eh",
     "nativeName":"\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
     "topLevelDomain":[
       ".eh"
@@ -8468,6 +8715,7 @@
   },
   {
     "name":"Yemen",
+    "codeCountries":"ye",
     "nativeName":"\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
     "topLevelDomain":[
       ".ye"
@@ -8498,6 +8746,7 @@
   },
   {
     "name":"Zambia",
+    "codeCountries":"zm",
     "nativeName":"Zambia",
     "topLevelDomain":[
       ".zm"
@@ -8534,6 +8783,7 @@
   },
   {
     "name":"Zimbabwe",
+    "codeCountries":"zw",
     "nativeName":"Zimbabwe",
     "topLevelDomain":[
       ".zw"
@@ -8617,4 +8867,3 @@
     "capital":"Harare"
   }
 ]
-}
